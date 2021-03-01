@@ -1,5 +1,5 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am modobit 👨🏻‍💻 - always learning new stuff. 
+# Hello, folks! I am modobit 👨🏻‍💻 
+Always learning new technologies.  
 
 Follow me on twitter - https://twitter.com/modobit
 
