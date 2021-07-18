@@ -1,6 +1,6 @@
-![alt text](https://raw.githubusercontent.com/modobit/modobit/main/images/1500x500.png)
+![alt text](https://1raw.githubusercontent.com/modobit/modobit/main/images/1500x500.png)
 
-# Hello, folks! I am modobit 👨🏻‍💻 
+# Hello, folks! 👨🏻‍💻 
 Always learning new technologies.  
 * Full Stack Casusal Developer and Designer
 * I have 15+ years of experience designing, developing, and managing complex web applications and internal frameworks. 
@@ -9,4 +9,3 @@ Always learning new technologies.
 * Experienced in decision-making areas beyond programming such as product development, hiring, etc.
 * I learn and build everything that excites me from cooking food to building large scale application
 
-Follow me on twitter - https://twitter.com/modobit
