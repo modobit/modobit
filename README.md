@@ -1,4 +1,4 @@
-![alt text](https://1raw.githubusercontent.com/modobit/modobit/main/images/1500x500.png)
+![alt text](https://raw.githubusercontent.com/modobit/modobit/main/images/1500x500.png)
 
 # Hello, folks! 👨🏻‍💻 
 Always learning new technologies.  
